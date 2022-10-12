@@ -1,8 +1,8 @@
-* {
-    margin: 0;
-}
-
 h1 {
     color: red;
     font-size: 60px;
+}
+p {
+    margin: 0 auto;
+    padding-left: 15px;
 }
